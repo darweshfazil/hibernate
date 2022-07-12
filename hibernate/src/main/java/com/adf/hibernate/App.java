@@ -15,7 +15,11 @@ public class App
 {
     public static void main( String[] args )
     {
-		SessionFactory factory = new Configuration().configure("hibernate.cfg.xml").addAnnotatedClass(Student.class).buildSessionFactory();
+		SessionFactory factory = new Configuration()
+								 .configure("hibernate.cfg.xml")
+								 .addAnnotatedClass(Student.class)
+								 .buildSessionFactory();
+		
     	Session session = factory.getCurrentSession();
     	try {
     		System.out.println("Creating new student object....");
