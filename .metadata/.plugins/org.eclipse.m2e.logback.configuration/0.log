@@ -1395,3 +1395,57 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 2022-07-12 17:19:02,385 [Worker-500: Launching DeleteCourseAndReviewsDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate6/src/main/resources
 2022-07-12 17:19:02,386 [Worker-500: Launching DeleteCourseAndReviewsDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-07-12 17:19:02,386 [Worker-500: Launching DeleteCourseAndReviewsDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate6/src/test/resources
+2022-07-12 18:05:21,231 [Worker-514: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/adf/Hibernate-demo/hibernate7/pom.xml
+2022-07-12 18:05:21,260 [Worker-514: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adf:hibernate7:0.0.1-SNAPSHOT @ /home/adf/Hibernate-demo/hibernate7/pom.xml.
+2022-07-12 18:05:21,490 [Worker-514: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hibernate7/src/main/java
+2022-07-12 18:05:21,501 [Worker-514: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hibernate7/src/test/java
+2022-07-12 18:05:21,531 [Worker-514: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-12 18:05:21,532 [Worker-514: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate7/src/main/resources
+2022-07-12 18:05:21,534 [Worker-514: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-12 18:05:21,534 [Worker-514: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate7/src/test/resources
+2022-07-12 18:05:21,558 [Worker-514: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-07-12 18:06:24,718 [Worker-514: Launching App (6)] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adf:hibernate:0.0.1-SNAPSHOT @ /home/adf/Hibernate-demo/hibernate7/pom.xml.
+2022-07-12 18:06:24,926 [Worker-514: Launching App (6)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-12 18:06:24,927 [Worker-514: Launching App (6)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate7/src/main/resources
+2022-07-12 18:06:24,927 [Worker-514: Launching App (6)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-12 18:06:24,927 [Worker-514: Launching App (6)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate7/src/test/resources
+2022-07-12 18:06:34,093 [Worker-514: Launching App (6)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-12 18:06:34,093 [Worker-514: Launching App (6)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate7/src/main/resources
+2022-07-12 18:06:34,094 [Worker-514: Launching App (6)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-12 18:06:34,094 [Worker-514: Launching App (6)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate7/src/test/resources
+2022-07-12 18:32:42,987 [Worker-520: Launching CreateCourseAndStudentsDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-12 18:32:42,987 [Worker-520: Launching CreateCourseAndStudentsDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate7/src/main/resources
+2022-07-12 18:32:42,988 [Worker-520: Launching CreateCourseAndStudentsDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-12 18:32:42,988 [Worker-520: Launching CreateCourseAndStudentsDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate7/src/test/resources
+2022-07-12 18:33:26,460 [Worker-530: Launching CreateCourseAndStudentsDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-12 18:33:26,460 [Worker-530: Launching CreateCourseAndStudentsDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate7/src/main/resources
+2022-07-12 18:33:26,461 [Worker-530: Launching CreateCourseAndStudentsDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-12 18:33:26,461 [Worker-530: Launching CreateCourseAndStudentsDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate7/src/test/resources
+2022-07-12 18:35:08,314 [Worker-529: Launching CreateCourseAndStudentsDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-12 18:35:08,314 [Worker-529: Launching CreateCourseAndStudentsDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate7/src/main/resources
+2022-07-12 18:35:08,315 [Worker-529: Launching CreateCourseAndStudentsDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-12 18:35:08,315 [Worker-529: Launching CreateCourseAndStudentsDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate7/src/test/resources
+2022-07-12 18:41:30,802 [Worker-534: Launching CreateCourseAndStudentsDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-12 18:41:30,802 [Worker-534: Launching CreateCourseAndStudentsDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate7/src/main/resources
+2022-07-12 18:41:30,802 [Worker-534: Launching CreateCourseAndStudentsDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-12 18:41:30,802 [Worker-534: Launching CreateCourseAndStudentsDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate7/src/test/resources
+2022-07-12 18:49:55,862 [Worker-534: Launching AddCourseForMaryDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-12 18:49:55,863 [Worker-534: Launching AddCourseForMaryDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate7/src/main/resources
+2022-07-12 18:49:55,863 [Worker-534: Launching AddCourseForMaryDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-12 18:49:55,863 [Worker-534: Launching AddCourseForMaryDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate7/src/test/resources
+2022-07-12 18:52:44,046 [Worker-546: Launching GetCourseForMaryDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-12 18:52:44,046 [Worker-546: Launching GetCourseForMaryDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate7/src/main/resources
+2022-07-12 18:52:44,047 [Worker-546: Launching GetCourseForMaryDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-12 18:52:44,047 [Worker-546: Launching GetCourseForMaryDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate7/src/test/resources
+2022-07-12 19:00:03,802 [Worker-547: Launching DeleteCourseForMaryDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-12 19:00:03,802 [Worker-547: Launching DeleteCourseForMaryDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate7/src/main/resources
+2022-07-12 19:00:03,802 [Worker-547: Launching DeleteCourseForMaryDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-12 19:00:03,802 [Worker-547: Launching DeleteCourseForMaryDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate7/src/test/resources
+2022-07-12 19:00:47,015 [Worker-545: Launching GetCourseForMaryDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-12 19:00:47,015 [Worker-545: Launching GetCourseForMaryDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate7/src/main/resources
+2022-07-12 19:00:47,016 [Worker-545: Launching GetCourseForMaryDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-12 19:00:47,016 [Worker-545: Launching GetCourseForMaryDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate7/src/test/resources
+2022-07-12 19:04:33,379 [Worker-549: Launching DeleteMaryStudentDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-12 19:04:33,379 [Worker-549: Launching DeleteMaryStudentDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate7/src/main/resources
+2022-07-12 19:04:33,380 [Worker-549: Launching DeleteMaryStudentDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-12 19:04:33,380 [Worker-549: Launching DeleteMaryStudentDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/adf/Hibernate-demo/hibernate7/src/test/resources
